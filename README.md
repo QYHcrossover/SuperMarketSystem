@@ -1,0 +1,2 @@
+# SuperMarketSystem
+大一上c语言课程设计写的超市管理系统
